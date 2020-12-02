@@ -1,7 +1,4 @@
-alert(2 + 3);
-
-alert(5 - 2);
-
-alert(3 * 5);
-
-alert(20 / 4);
+function addString(strA){
+  var addStr = "Hello " + strA;
+  return addStr;
+}
